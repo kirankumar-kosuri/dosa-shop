@@ -19,3 +19,4 @@
 * Carrot
 * Beetroot
 * Cheese and Butter
+* Garam Masala
